@@ -35,7 +35,7 @@ public class MedianOfTwoSortedArraysTest {
 
     public static List<MedianOfTwoSortedArraysTestData> testData() {
         return Arrays.asList(
-                new MedianOfTwoSortedArraysTestData(new int[]{1, 3}, new int[]{2}, 2.0d),
+                new MedianOfTwoSortedArraysTestData(new int[]{1.0, 3}, new int[]{2}, 2.0d),
                 new MedianOfTwoSortedArraysTestData(new int[]{1, 2}, new int[]{3, 4}, 2.5d)
         );
     }
